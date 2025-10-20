@@ -1,0 +1,4 @@
+ping3
+psutil
+PyYAML
+dnspython
