@@ -121,7 +121,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-[Specify your license here]
+<Feel free to use this tool for personal or commercial projects. Just please don’t redistribute or modify it without asking first!>
 
 ## Support
 
