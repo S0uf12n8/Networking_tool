@@ -1,0 +1,3 @@
+hosts:
+  - 8.8.8.8
+interval: 30
